@@ -1,0 +1,19 @@
+Masa No: 5
+Siparişler:
+Izgara et çeşitleri (tavuk ve et karışık) x 1 = 240 TL
+Lahmacun x 2 = 200 TL
+Muzlu puding x 1 = 45 TL
+Meyve suyu x 1 = 30 TL
+Ayran x 1 = 15 TL
+Toplam Tutar: 530 TL
+Tarih: 31.05.2025 14:23:23
+----------------------------------------
+Masa No: 2
+Siparişler:
+Lahmacun x 1 = 100 TL
+Et Döner x 1 = 200 TL
+Kola x 2 = 80 TL
+Su x 2 = 20 TL
+Toplam Tutar: 400 TL
+Tarih: 31.05.2025 14:26:32
+----------------------------------------

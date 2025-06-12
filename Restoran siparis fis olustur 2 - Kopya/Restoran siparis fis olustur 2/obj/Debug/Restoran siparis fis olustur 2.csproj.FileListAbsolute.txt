@@ -1,0 +1,12 @@
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\bin\Debug\Restoran siparis fis olustur 2.exe.config
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\bin\Debug\Restoran siparis fis olustur 2.exe
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\bin\Debug\Restoran siparis fis olustur 2.pdb
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran siparis fis olustur 2.csproj.AssemblyReference.cache
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran_siparis_fis_olustur_2.Form1.resources
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran_siparis_fis_olustur_2.Musteri.resources
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran_siparis_fis_olustur_2.Properties.Resources.resources
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran_siparis_fis_olustur_2.Yönetici.resources
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran siparis fis olustur 2.csproj.GenerateResource.cache
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran siparis fis olustur 2.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran siparis fis olustur 2.exe
+C:\Users\MSİ\source\repos\Restoran siparis fis olustur 2\Restoran siparis fis olustur 2\obj\Debug\Restoran siparis fis olustur 2.pdb

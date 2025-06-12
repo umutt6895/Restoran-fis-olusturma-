@@ -1,0 +1,15 @@
+Köfte|180
+Mercimek çorbası|45
+Izgara et çeşitleri (tavuk ve et karışık)|240
+Bulgur pilavı|65
+Lahmacun|100
+Tavuk Döner|140
+Et Döner|200
+Baklava(porsiyon)|80
+Kek(porsiyon)|50
+Muzlu puding|45
+Künefe|100
+Kola|40
+Meyve suyu|30
+Ayran|15
+Su|10
